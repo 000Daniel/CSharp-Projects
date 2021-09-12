@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Choice In The Numbers\Choice in the Numbers.exe
+C:\Users\Daniel\Desktop\Choice In The Numbers\Choice in the Numbers.dll
+C:\Users\Daniel\Desktop\Choice In The Numbers\Choice in the Numbers.deps.json
+C:\Users\Daniel\Desktop\Choice In The Numbers\Choice in the Numbers.runtimeconfig.json
+C:\Users\Daniel\Desktop\Choice In The Numbers\Choice in the Numbers.pdb

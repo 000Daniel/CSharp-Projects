@@ -1,0 +1,13 @@
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\bin\Release\netcoreapp3.1\Choice in the Numbers.exe
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\bin\Release\netcoreapp3.1\Choice in the Numbers.deps.json
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\bin\Release\netcoreapp3.1\Choice in the Numbers.runtimeconfig.json
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\bin\Release\netcoreapp3.1\Choice in the Numbers.runtimeconfig.dev.json
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\bin\Release\netcoreapp3.1\Choice in the Numbers.dll
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\bin\Release\netcoreapp3.1\Choice in the Numbers.pdb
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\obj\Release\netcoreapp3.1\Choice in the Numbers.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\obj\Release\netcoreapp3.1\Choice in the Numbers.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\obj\Release\netcoreapp3.1\Choice in the Numbers.AssemblyInfo.cs
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\obj\Release\netcoreapp3.1\Choice in the Numbers.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\obj\Release\netcoreapp3.1\Choice in the Numbers.dll
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\obj\Release\netcoreapp3.1\Choice in the Numbers.pdb
+D:\Projects\Visual Studio Projects\Choice in the Numbers\Choice in the Numbers\obj\Release\netcoreapp3.1\Choice in the Numbers.genruntimeconfig.cache
