@@ -12,5 +12,5 @@ Note: The game was designed to be difficult.
 
 
 
-#Release date: 21.09.2021
+#Release date: 12.09.2021
 #Completed code date: 29.06.2021
