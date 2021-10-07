@@ -6,3 +6,9 @@ If you want to run it download the executable version, if you want to modify the
 Note: the source version is for Visual Studio (.Net5.0).
 
 Note: This software was a coding exercise, expect issues with the software.
+
+
+
+
+
+Publish/Release dates: 07.10.2021
