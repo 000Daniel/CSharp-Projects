@@ -9,7 +9,9 @@ Feel free to look around and try some of those programs/scripts for yourself.
 <br />
 <br />
 ### Note:  
-   🞄 Usually I write my C#(C Sharp) scripts in Visual Studio Community/Code using the DotNet5.0 and DotNet6.0 frameworks.  
+   🞄 Usually I write my C#(C Sharp) scripts in Visual Studio Community/Code or OnlineGDB.  
+<br />
+   🞄 Usually I use the DotNet5.0 and or DotNet6.0 frameworks.  
 <br />
    🞄 My projects usually are coding exercises, issues are to be expected.  
 <br />
