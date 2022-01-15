@@ -2,6 +2,8 @@
 
 This script accepts and interprets launch arguments. <br />
 <br />
+   [Version 3.0 Available here](https://github.com/000Daniel/CSharp-Projects/tree/main/Argument%20Parser%20Template/V3.0)
+<br />
 ### Usage:
    simply type in console: `dotnet run Program.cs "Hello World"` <br />
    optional flags: <br />
