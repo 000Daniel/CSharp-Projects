@@ -1,4 +1,4 @@
-# Argument Parser 2 in C# (template)
+# Argument Parser 3 in C# (template)
 
 This script accepts and interprets launch arguments. <br />
 <br />
