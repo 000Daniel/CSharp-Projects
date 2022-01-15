@@ -11,8 +11,8 @@ This script accepts and interprets launch arguments. <br />
 <br />
    to run the script simply write in the console one of the following lines: <br />
    `dotnet run "Print this argument"` <br />
-   `dotnet run "Hello World" -q` <br />
-   `dotnet run "Hello" "World" -q -C` <br />
+   `dotnet run "Hello World" -q` <br />
+   `dotnet run "Hello" "World" -q -C` <br />
 <br />
    this script also automatically generated a help page, example: <br />
    `dotnet run --i` <br />
