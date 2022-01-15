@@ -2,6 +2,8 @@
 
 This script accepts and interprets launch arguments. <br />
 <br />
+   [Version 3.0 Available here](https://github.com/000Daniel/CSharp-Projects/tree/main/Argument%20Parser%20Template/V3.0)
+<br />
 ## Usage:
    make sure that you are running DOTNET 6.0, else you will need to adjust the script. <br />
    make sure that your Main function contains (string[] args). <br />
@@ -24,6 +26,7 @@ This script accepts and interprets launch arguments. <br />
    `List<string> <name>   = parseArgs(args, <name>      , <description> );                      ` <br />
    `List<string> Argument = parseArgs(args, "argument1", "passes a string into the script");` <br />
    Note: the positional arguments have to be declared after the optional flags have. <br />
+   [Here's a software](https://github.com/000Daniel/deldir-plugin) I created using this Argument Parser. <br />
 <br />
 <br />
 <br />
