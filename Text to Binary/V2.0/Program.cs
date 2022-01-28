@@ -47,7 +47,7 @@
         bool Decimal2Binary = AP3.Boolean(args, new string[]{ "--d2b" , "--decimaltobinary"}, "convert a decimal value to binary code");
         List<string> Argument = AP3.List(args, "argument1", "passes a string into the script");
         AP3.help_message("usage","Program");
-        AP3.help_message("description","C# argument parser 3.0 template");
+        AP3.help_message("description","Text to Binary converter");
         AP3.help_message("information","created by https://github.com/000Daniel");
         if (Help)
         {
