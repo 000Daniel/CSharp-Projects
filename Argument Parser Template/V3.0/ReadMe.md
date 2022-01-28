@@ -27,6 +27,10 @@ This script accepts and interprets launch arguments. <br />
    `List<string> <name>   = AP3.List(args, <name>      , <description> );                      ` <br />
    `List<string> Argument = AP3.List(args, "argument1", "passes a string into the script");` <br />
    Note: the positional arguments have to be declared after the optional flags were. <br />
+   Here are some softwares I created using this Argument Parser: <br />
+   [Text to Binary V2.0](https://github.com/000Daniel/CSharp-Projects/tree/main/Text%20to%20Binary/V2.0) <br />
+   [Encryption algorithem V1.0](https://github.com/000Daniel/CSharp-Projects/tree/main/Encryption%20algorithem/V1.0) <br />
+      
 <br />
 <br />
 <br />
